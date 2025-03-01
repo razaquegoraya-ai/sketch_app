@@ -1,5 +1,8 @@
 # Photo to Sketch Converter
 
+<img width="1440" alt="Screenshot 2025-03-01 at 6 48 27 PM" src="https://github.com/user-attachments/assets/a825e8b7-cdad-47bb-959c-71ff9e4ef9fa" />
+
+
 A Flask web application that converts photos into artistic line sketches using computer vision techniques.
 
 ## Features
